@@ -70,7 +70,7 @@
       {
         "value": "clean",
         "label": "clean",
-        "hint": "Removing unnecesary code or files",
+        "hint": "Removing unnecessary code or files",
         "emoji": "🧹"
       },
       {

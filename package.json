@@ -15,7 +15,7 @@
     "release": "dotenv release-it --",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["translate", "json", "languages"],
   "author": "Jepri Creations",
   "license": "ISC",
   "dependencies": {
