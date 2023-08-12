@@ -271,6 +271,6 @@ pnpm translate
 
 
 ## 🎖️ Credits
-[translate]('https://github.com/franciscop/translate') as base for the translations.
+[Translate](https://github.com/franciscop/translate) as base for the translations.
 
-[clack]('https://github.com/natemoo-re/clack/tree/main/packages/prompts') and [picocolors]('https://github.com/alexeyraspopov/picocolors') for the command-line interface
+[Clack](https://github.com/natemoo-re/clack/tree/main/packages/prompts) and [picocolors](https://github.com/alexeyraspopov/picocolors) for the command-line interface
