@@ -5,7 +5,6 @@
   },
   "hooks": {
     "before:init": ["git pull", "pnpm standard"],
-    "after:bump": "pnpm build",
     "after:npm:release": "echo Successfully published ${name} v${version} to npm. 📦",
     "after:release": "echo Successfully released ${name} v${version} to ${repo.repository}. 🚀"
   },

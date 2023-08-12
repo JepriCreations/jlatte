@@ -1,6 +1,6 @@
 {
   "name": "jlatte",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple CLI to translate JSON files.",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,11 @@
     "release": "dotenv release-it --",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["translate", "json", "languages"],
+  "keywords": [
+    "translate",
+    "json",
+    "languages"
+  ],
   "author": "Jepri Creations",
   "license": "ISC",
   "dependencies": {
