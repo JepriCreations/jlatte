@@ -1,5 +1,12 @@
 
 
+## [0.0.2](https://github.com/JepriCreations/jlatte/compare/0.0.1...0.0.2) (2023-08-13)
+
+
+### Bug Fixes
+
+* Make it executable ([27a969f](https://github.com/JepriCreations/jlatte/commit/27a969ffc278edf17fdd5313d91efa8440678060))
+
 ## 0.0.1 (2023-08-12)
 
 
