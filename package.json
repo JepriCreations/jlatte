@@ -1,6 +1,6 @@
 {
   "name": "jlatte",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple CLI to translate JSON files.",
   "main": "index.js",
   "type": "module",
