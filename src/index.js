@@ -12,7 +12,7 @@ import { exitProgram, extractLanguagesCode } from './utils.js'
 import { translateJson } from './translate-json.js'
 
 const sourceFilePathArg = process.argv[2]
-const sortArg = process.argv[5]
+const sortArg = process.argv[3]
 
 intro(colors.bold('jlatte ☕ is ready to translate your .json file'))
 

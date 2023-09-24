@@ -31,7 +31,7 @@ pnpm jlatte
 Note: you can create a script on your package.json for convenience as:
 ```sh
 scripts{
-   translate: pnpm jlatte <sourceFilePath> <sort>
+   "translate": "pnpm jlatte <sourceFilePath> <sort>"
 }
 ```
 Replace ``<sourceFilePath>`` with the path to the source JSON file, and ``<sort>`` with true or false depending if you want to sort the object keys alphabetically or not, where true es "yes" and false is "not".
@@ -39,7 +39,7 @@ Replace ``<sourceFilePath>`` with the path to the source JSON file, and ``<sort>
 Example:
 ```sh
 scripts{
-   translate: pnpm jlatte languages/en.json true
+   "translate": "pnpm jlatte languages/en.json true"
 }
 ```
 and then just execute:
