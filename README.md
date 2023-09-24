@@ -39,7 +39,7 @@ Replace ``<sourceFilePath>`` with the path to the source JSON file, and ``<sort>
 Example:
 ```sh
 scripts{
-   "translate": "pnpm jlatte languages/en.json true"
+   "translate": "pnpm jlatte src/languages/en.json true"
 }
 ```
 and then just execute:
